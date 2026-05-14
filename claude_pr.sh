@@ -111,7 +111,7 @@ capture_issue_text() {
 
 ============================================================
 PASTE ISSUE / PR DESCRIPTION
-- Paste the full issue or PR description below.
+- Paste the full issue and/or PR description, if available, below.
 - End input with Ctrl-D (EOF) on a new line.
 ============================================================
 
